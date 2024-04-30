@@ -1,0 +1,2 @@
+Git maintains different versions of same file
+Welcome to Git commands
